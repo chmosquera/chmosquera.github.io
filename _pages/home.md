@@ -10,48 +10,27 @@ header:
   #   - label: "<i class='fas fa-download'></i> Install now"
   #     url: "/docs/quick-start-guide/"
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: assets/images/calpoly/csc476_feather_fall.png
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Feather Fall"
+    excerpt: "A baby goose. A dangerous cliff. And a hungry eagle. Help guide the chick as it falls down the cliff. _A game that demonstrates computer graphics and rendering techniques._"
+    url: /project/post-feather-fall/
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+    btn_label: "More"
+  - image_path: /assets/images/calpoly/sCool_blockbuilder.png
     alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    title: "sCool"
+    excerpt: " "
     url: "/docs/layouts/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+    btn_label: "More"
+  - image_path: /assets/images/calpoly/anx_calmdown.png
     alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    title: "ANX Dread"
+    excerpt: "A space-puzzle game developed for VR platforms that features an arduino heart-rate monitor to measure heart-rate throughout the experience."
+    url: " "
     btn_class: "btn--primary"
-    btn_label: "Learn more"     
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"       
+    btn_label: "More"           
 ---
 
 {% include feature_row %}
