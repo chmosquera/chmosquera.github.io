@@ -30,7 +30,14 @@ feature_row:
     excerpt: "A space-puzzle game developed for VR platforms that features an arduino heart-rate monitor to measure heart-rate throughout the experience."
     url: " "
     btn_class: "btn--primary"
-    btn_label: "More"           
+    btn_label: "More"   
+  - image_path: /assets/images/calpoly/sinusoidal_bunny.png
+    alt: "100% free"
+    title: "Computer Graphcis Techniques"
+    excerpt: "A series of projects showcasing computer graphics techniques"
+    url:  /project/post-computer-graphics-techniques/
+    btn_class: "btn--primary"
+    btn_label: "More"             
 ---
 
-{% include feature_row %}
+Hello, welcome! This site is still in progress, but I'm working everyday to fill it up. (6/20/2020)
