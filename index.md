@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: Chanelle Mosquera
 theme: default
 permalink: /
 hidden: true
@@ -11,33 +12,28 @@ header:
   #     url: "/docs/quick-start-guide/"
 feature_row:
   - image_path: assets/images/calpoly/csc476_feather_fall.png
-    alt: "customizable"
+    alt: "Feather Fall"
     title: "Feather Fall"
     excerpt: "A baby goose. A dangerous cliff. And a hungry eagle. Help guide the chick as it falls down the cliff. _A game that demonstrates computer graphics and rendering techniques._"
-    url: /project/post-feather-fall/
+    url: /portfolio/featherfall/
     btn_class: "btn--primary"
     btn_label: "More"
-  - image_path: /assets/images/calpoly/sCool_blockbuilder.png
-    alt: "fully responsive"
-    title: "sCool"
-    excerpt: " "
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "More"
-  - image_path: /assets/images/calpoly/anx_calmdown.png
-    alt: "100% free"
-    title: "ANX Dread"
-    excerpt: "A space-puzzle game developed for VR platforms that features an arduino heart-rate monitor to measure heart-rate throughout the experience."
-    url: " "
-    btn_class: "btn--primary"
-    btn_label: "More"   
-  - image_path: /assets/images/calpoly/sinusoidal_bunny.png
-    alt: "100% free"
-    title: "Computer Graphcis Techniques"
-    excerpt: "A series of projects showcasing computer graphics techniques"
-    url:  /project/post-computer-graphics-techniques/
+  # - image_path: /assets/images/calpoly/sCool_blockbuilder.png
+  #   alt: "sCool"
+  #   title: "sCool"
+  #   excerpt: " "
+  #   url: "/docs/layouts/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "More"
+  - image_path: /assets/images/calpoly/nlp_final_proj_yelp_overview.png
+    alt: "NLP Yelp"
+    title: "Topic Classification and Sentiment Analysis on Yelp Dataset"
+    excerpt: "A research work using NLP techniques on the Yelp dataset."
+    date: 2020-06-09
+    url:  /portfolio/nlp_yelp_analysis/
     btn_class: "btn--primary"
     btn_label: "More"             
 ---
 
-Hello, welcome! This site is still in progress, but I'm working everyday to fill it up. (6/20/2020)
+# Most recent projects
+{% include feature_row %}

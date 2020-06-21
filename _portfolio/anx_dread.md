@@ -29,4 +29,8 @@ tags:
 ---
 
 
-This site is in progress. 6/20/20
+_This site is in progress. 6/20/20_
+
+ANX Dread is a virtual reality experience that explores player anxiety during task completion. A poster was published at the FDG 2019 conference. 
+- [publication](https://dl.acm.org/doi/10.1145/3337722.3341821)
+- [poster](http://users.csc.calpoly.edu/~zwood/teaching/CIA/FDG_CIA_capstone.pdf)
