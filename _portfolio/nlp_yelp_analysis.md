@@ -15,9 +15,9 @@ image_path: assets/images/calpoly/nlp_final_proj_yelp_overview.png
 categories:
   - project
 tags:
-  - grad
-  - research
-  - nlp
+  - Graduate
+  - Research
+  - NLP
 ---
 
 _This project was created for a Master's course in Natural Language Processing at Cal Poly. The github repo is available [here](https://github.com/chmosquera/nlp-yelp-research)._ 
