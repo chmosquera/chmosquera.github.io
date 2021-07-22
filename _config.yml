@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Chanelle Mosquera"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Technical, creative, and fun-loving spirit. I have too many hobbies and projects to keep track of - this is my attempt.  I just created this site, so thanks for your patience while I fix the broken links and add more to my portfolio. :)"
+  bio    : "I have a lot of hobbies and interests - this is my attempt to keep track of them."
   url    : "https://https://chanellemosquera.com"
   # links:
   #   - label: "Website"
@@ -85,7 +85,7 @@ footer:
     #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/chmosquera"
+      url: "https://github.com/chanmosq"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/whatsupchanelle"
