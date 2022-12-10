@@ -20,4 +20,4 @@ The project can be viewed on [github](https://github.com/jjohn163/Lab1). Full im
 > Help guide the chick as it falls down the cliff. Go too fast and the chick is harmed on impact with the ground. Go too slow and the eagle catches up to its delicious dinner. Bump into the rocks and branches to keep control of the speed. (Go for the branches, they won't hurt as much.) And get the chick safely to the ground.
 > - [Official Project Website](https://jjohn163.github.io/Lab1/index.html)
 
-![](assets/images/2020/csc476_feather_fall.png)
+![](/assets/images/2020/csc476_feather_fall.png)

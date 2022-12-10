@@ -44,4 +44,4 @@ Our final project features a combination of computer graphics techniques used in
 ### Key Technologies
 - B-spline interpolation
 - Mesh blending
-![Final Project. Features an animated mesh (.fbx) that travels along a b-spline path](assets/images/2019/computer_graphics/474_fbx_dragon.gif)
+![Final Project. Features an animated mesh (.fbx) that travels along a b-spline path](/assets/images/2019/computer_graphics/474_fbx_dragon.gif)
