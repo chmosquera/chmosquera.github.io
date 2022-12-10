@@ -5,5 +5,5 @@
 
 layout: Post
 permalink: /
-title: Home page
+title: Chanelle's Portfolio
 ---
