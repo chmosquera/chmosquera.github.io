@@ -1,6 +1,8 @@
 ---
 title: "Computer Graphics Series"
-excerpt: "A series of projects showcasing computer graphics techniques."
+date: 2019-12-31
+feed: show
+showhomefeed: true
 image_path: assets/images/calpoly/474_bunny.png
 # header:
 #   image: /assets/images/calpoly/474_bunny.png

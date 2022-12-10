@@ -37,10 +37,12 @@
 <div class="related-wrapper">
     {% assign note_items = site.notes | sort: "date" | reverse %}
     {% for note_items in note_items %}
+        <!-- feed with filter - only show items with `showhomefeed = true` -->
         {%- if note_items.feed == "show" and note_items.showhomefeed == true -%}
                 <div class="notelist-feed">
                     <a href="{{ site.baseurl }}{{note_items.url}}">
                         <h6>{{ note_items.title }}</h6>
+                        <img src="{{ note_items.image_path }}">
                         <p class="excerpt">
                             {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 200 }}
                         </p>

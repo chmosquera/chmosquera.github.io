@@ -1,8 +1,6 @@
 ---
 title: Computer Graphics Techniques
 date: 2019-12-31
-feed: show
-showhomefeed: true
 tags:
   - computer_graphics
   - real-time_rendering

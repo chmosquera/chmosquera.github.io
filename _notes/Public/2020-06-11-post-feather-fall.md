@@ -3,6 +3,7 @@ title: "Feather Fall"
 date: 2020-06-09
 feed: show
 showhomefeed: true
+image_path: assets/images/calpoly/csc476_feather_fall.png
 categories:
   - project
 tags:
