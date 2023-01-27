@@ -3,7 +3,7 @@ title: Real-time Glow Effect
 date: 2019-09-01
 feed: show
 showhomefeed: true
-image_path: /assets/images/2019/572_glow_effect/Glow.PNG
+image_path: assets/images/2019/572_glow_effect/Glow.png
 tags:
   - Computer Graphics
   - C++

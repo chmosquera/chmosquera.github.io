@@ -3,7 +3,7 @@ title: "ANX Dread"
 excerpt: "A space-puzzle game developed for VR platforms that features an arduino heart-rate monitor to measure heart-rate throughout the experience."
 feed: show
 showhomefeed: true
-image_path: /assets/images/2019/anx_dread/anx_calmdown.png 
+image_path: assets/images/2019/anx_dread/anx_calmdown.png 
 tags:
   - Unity
   - C#
