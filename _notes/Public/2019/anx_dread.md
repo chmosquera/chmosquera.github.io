@@ -15,7 +15,7 @@ ANX Dread is a virtual reality experience that explores player anxiety during ta
 
 You can view the [publication](https://dl.acm.org/doi/10.1145/3337722.3341821) and [poster](http://users.csc.calpoly.edu/~zwood/teaching/CIA/FDG_CIA_capstone.pdf).
 
-![](https://www.youtube.com/watch?v=COWqeVOVaAA)
+{% youtube COWqeVOVaAA %}
 
 ## Gallery
 
