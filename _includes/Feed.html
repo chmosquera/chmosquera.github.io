@@ -42,6 +42,7 @@
                 <div class="notelist-feed">
                     <a href="{{ site.baseurl }}{{note_items.url}}">
                         <h6>{{ note_items.title }}</h6>
+                        <h7>{{ note_items.tags }}</h7>
                         <img src="{{ note_items.image_path }}">
                         <p class="excerpt">
                             {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 200 }}
