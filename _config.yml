@@ -97,6 +97,7 @@ defaults:
       layout: Post
       content-type: notes
 
+excerpt_separator: <!--end-excerpt-->
 
 # Exclude from processing.
 # The following items will not be processed, by default.

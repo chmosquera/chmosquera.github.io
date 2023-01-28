@@ -1600,6 +1600,7 @@ a[href^="http"] {
     width: 100%;
     height: 0;
     padding-bottom: 56.25%;
+    margin-bottom: 25px;
   }
   .youtube-wrapper iframe {
     position: absolute;
@@ -1607,5 +1608,5 @@ a[href^="http"] {
     left: 0;
     width: 100%;
     height: 100%;
-    border: 0;
+    border: 0;    
   }
