@@ -9,8 +9,8 @@ categories:
 tags:
   - Research
   - C#
-  - UnityEngine
-  - GameDevelopment  
+  - Unity Engine
+  - Game Development  
 ---
 
 This post showcases game mechanics in sCool's new Builder Game. It also serves as an aid for future development.

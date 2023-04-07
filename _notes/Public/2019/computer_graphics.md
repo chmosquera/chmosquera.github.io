@@ -10,26 +10,30 @@ tags:
   - Animation
 ---
 
-_This series of short projects were created for Computer Graphics courses at Cal Poly: Intro to Computer Graphics & Computer Graphic Animation. All of these projects were developed on a custom renderer in C++ and OpenGL._
+Various real-time rendering techniques developed on a custom renderer in C++ and OpenGL.
 
 ## Sinusoidal Explosion
 
 For this project, I created a "sinusoidal explosion". To simulate the explosion, I translated the object's normal data in a geometry shader and used a sin wave to calculate the translation. 
-![Sinusoidal Explosion](/assets/images/2019/computer_graphics/471_bunny.GIF)
+![Sinusoidal Explosion](/assets/images/2019/computer_graphics/471_bunny.gif)
 
 ## SSAO
+An implementation of screen space ambient occlusion.
 ![SSAO](/assets/images/2019/computer_graphics/572_ssao.PNG)
 
 
 ## Animation
+
 ### Face Blend
-![Face blend](/assets/images/2019/computer_graphics/474_face_blend.GIF)
+This face blending technique interpolates between four different geometries. Each letter of the alphabet is mapped to a geometry
+![Face blend](/assets/images/2019/computer_graphics/474_face_blend.gif)
 
 ### Slow motion animation
-![Slomo animation](/assets/images/2019/computer_graphics/474_fbx_slomo_animation.GIF)
+![Slomo animation](/assets/images/2019/computer_graphics/474_fbx_slomo_animation.gif)
 
 ### Plane Curve
-![B-spline curve demo](/assets/images/2019/computer_graphics/474_plane_curve.GIF)
+![B-spline curve demo](/assets/images/2019/computer_graphics/474_plane_curve.gif)
+
 ## Animation Final Project: Flying Dragon and Path Editor
 Our final project features a combination of computer graphics techniques used in animation. This project was created in a team of two with cross platform development (Windows & Mac). 
 

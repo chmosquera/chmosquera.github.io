@@ -11,9 +11,13 @@ tags:
 
 In this project, I implement a lighting technique to create the effect of objects glowing in the scene.
 
+![Video of glow effect](/assets/images/2019/572_glow_effect/Glow_Demo.mp4)
+
+
+
 ## Pipeline
 1. Render scene to two textures: color and glow mask
-	![Color Texture](/assets/images/2019/572_glow_effect/ColorTexture.PNG)
+![Color Texture](/assets/images/2019/572_glow_effect/ColorTexture.PNG)
 ![Glow Mask](/assets/images/2019/572_glow_effect/GlowMaskTexture.PNG)
 
 2. Blur the glow mask using Gaussian Blur.
