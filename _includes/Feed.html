@@ -34,12 +34,13 @@
 <!--Static Page : pages/index.md-->
 
 {%- if page.permalink == "/" -%}
-<div class="related-wrapper">
+    {%- include TagFilter.html -%}
+    <div class="related-wrapper">
     {% assign note_items = site.notes | sort: "date" | reverse %}
     {% for note_items in note_items %}
         <!-- feed with filter - only show items with `showhomefeed = true` -->
         {%- if note_items.feed == "show" and note_items.showhomefeed == true -%}
-                <div class="notelist-feed">
+                <div class="notelist-feed" data-tags="{{ note_items.tags | join: ',' }}">
                     <a href="{{ site.baseurl }}{{note_items.url}}">
                         <h6>{{ note_items.title }}</h6>
                         <img src="{{ note_items.image_path }}">
